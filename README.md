@@ -1,4 +1,4 @@
-# 打开一个文件
+# 打开一个文件(文档的地址要改成自己电脑的）
 f = open(r"C:\Users\shouy\Desktop\abc.txt", 'w')
 
 #将内容写入并覆盖进目标文件
